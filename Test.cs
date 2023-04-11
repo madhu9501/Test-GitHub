@@ -7,6 +7,6 @@ namespace TestGitHub
 {
     public class TestClass
     {
-        
+
     }
 }
