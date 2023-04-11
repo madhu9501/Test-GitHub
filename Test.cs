@@ -8,6 +8,7 @@ namespace TestGitHub
     public class TestClass
     {
         private int id;
+        private string name;
 
     }
 }
