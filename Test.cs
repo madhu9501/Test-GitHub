@@ -11,6 +11,7 @@ namespace TestGitHub
         private string name;
         private int age;
         private string sex;
+        private string work;
 
     }
 }
