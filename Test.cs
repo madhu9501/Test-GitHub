@@ -10,6 +10,7 @@ namespace TestGitHub
         private int id;
         private string name;
         private int age;
+        private string sex;
 
     }
 }
