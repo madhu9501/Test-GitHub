@@ -7,7 +7,9 @@ namespace TestGitHub
 {
     public class TestClass
     {
-        private int id;
+        private int _id;
+        private string _firstName;
+        private string _lastName;
 
     }
 }
