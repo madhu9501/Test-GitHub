@@ -11,5 +11,12 @@ namespace TestGitHub
         private string _firstName;
         private string _lastName;
 
+        public TestClass(int id, string _firstName,string _lastName)
+        {
+            _id = id;
+            _firstName = firstName;
+            _lastName = lastName;
+        }
+
     }
 }
