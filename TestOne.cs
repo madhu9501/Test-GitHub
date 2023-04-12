@@ -9,5 +9,11 @@ namespace TestGitHub
         private string _name;
         private string _health;
 
+        public TestClass(int id, string name,string health)
+        {
+            _id = id;
+            _name = name;
+            _health = health;
+        }
     }
 }
